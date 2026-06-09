@@ -1,0 +1,147 @@
+[
+  {
+    "date": "2026-01-14", "name": "Sankranti (Pongal)", "type": "regional_ap",
+    "demand_multiplier": 1.7,
+    "notes": "Biggest festival in AP — 3-day celebration, massive hotel footfall"
+  },
+  {
+    "date": "2026-01-15", "name": "Kanuma (Sankranti Day 2)", "type": "regional_ap",
+    "demand_multiplier": 1.5,
+    "notes": "Second day of Sankranti"
+  },
+  {
+    "date": "2026-01-26", "name": "Republic Day", "type": "national",
+    "demand_multiplier": 1.2,
+    "notes": "National holiday, family outings"
+  },
+  {
+    "date": "2026-03-17", "name": "Holi", "type": "national",
+    "demand_multiplier": 1.3,
+    "notes": "Evening celebrations, increased restaurant visits"
+  },
+  {
+    "date": "2026-04-03", "name": "Good Friday", "type": "national",
+    "demand_multiplier": 1.15,
+    "notes": "Holiday, moderate uplift"
+  },
+  {
+    "date": "2026-04-05", "name": "Easter Sunday", "type": "national",
+    "demand_multiplier": 1.25,
+    "notes": "Family gatherings, weekend + holiday"
+  },
+  {
+    "date": "2026-04-06", "name": "Ram Navami", "type": "national",
+    "demand_multiplier": 1.4,
+    "notes": "Important Hindu festival — big in AP"
+  },
+  {
+    "date": "2026-04-13", "name": "Ugadi Eve", "type": "regional_ap",
+    "demand_multiplier": 1.4,
+    "notes": "Pre-Ugadi celebrations — families dine out the evening before"
+  },
+  {
+    "date": "2026-04-14", "name": "Ugadi (Telugu New Year)", "type": "regional_ap",
+    "demand_multiplier": 1.7,
+    "notes": "BIGGEST AP festival — entire families eat out, very high demand all day"
+  },
+  {
+    "date": "2026-04-14", "name": "Dr. Ambedkar Jayanti", "type": "national",
+    "demand_multiplier": 1.7,
+    "notes": "Public holiday — combined with Ugadi"
+  },
+  {
+    "date": "2026-04-20", "name": "Akshaya Tritiya", "type": "regional_ap",
+    "demand_multiplier": 1.3,
+    "notes": "Auspicious day — weddings and celebrations boost hotel visits"
+  },
+  {
+    "date": "2026-05-01", "name": "Labour Day", "type": "national",
+    "demand_multiplier": 1.25,
+    "notes": "Public holiday — family outings"
+  },
+  {
+    "date": "2026-05-23", "name": "Buddha Purnima", "type": "national",
+    "demand_multiplier": 1.15,
+    "notes": "Public holiday"
+  },
+  {
+    "date": "2026-06-06", "name": "Eid al-Fitr (approx)", "type": "national",
+    "demand_multiplier": 1.5,
+    "notes": "Major Muslim festival — high demand for non-veg especially"
+  },
+  {
+    "date": "2026-06-17", "name": "Eid al-Adha", "type": "national",
+    "demand_multiplier": 1.6,
+    "notes": "High demand — non-veg items spike significantly"
+  },
+  {
+    "date": "2026-07-21", "name": "Muharram", "type": "national",
+    "demand_multiplier": 1.2,
+    "notes": "Holiday"
+  },
+  {
+    "date": "2026-08-15", "name": "Independence Day", "type": "national",
+    "demand_multiplier": 1.3,
+    "notes": "National holiday, family gatherings"
+  },
+  {
+    "date": "2026-08-19", "name": "Raksha Bandhan", "type": "national",
+    "demand_multiplier": 1.2,
+    "notes": "Family celebrations"
+  },
+  {
+    "date": "2026-08-25", "name": "Onam (Start)", "type": "regional",
+    "demand_multiplier": 1.2,
+    "notes": "Celebrated by some in AP"
+  },
+  {
+    "date": "2026-09-02", "name": "Ganesh Chaturthi", "type": "regional_ap",
+    "demand_multiplier": 1.6,
+    "notes": "Very big in AP and Telangana — 10-day festival begins, high footfall first day"
+  },
+  {
+    "date": "2026-09-12", "name": "Ganesh Visarjan", "type": "regional_ap",
+    "demand_multiplier": 1.5,
+    "notes": "Final day of Ganesh festival — massive celebrations"
+  },
+  {
+    "date": "2026-09-21", "name": "Navaratri Begins", "type": "regional_ap",
+    "demand_multiplier": 1.3,
+    "notes": "9-day festival — increased hotel visits"
+  },
+  {
+    "date": "2026-09-29", "name": "Dussehra / Vijaya Dashami", "type": "national",
+    "demand_multiplier": 1.5,
+    "notes": "Major celebration in AP, last day of Navaratri"
+  },
+  {
+    "date": "2026-10-02", "name": "Gandhi Jayanti", "type": "national",
+    "demand_multiplier": 1.15,
+    "notes": "National holiday"
+  },
+  {
+    "date": "2026-10-20", "name": "Diwali", "type": "national",
+    "demand_multiplier": 1.5,
+    "notes": "Major festival — family gatherings, premium food orders"
+  },
+  {
+    "date": "2026-10-21", "name": "Diwali Day 2 (Bali Pratipada)", "type": "national",
+    "demand_multiplier": 1.3,
+    "notes": "Second day of Diwali"
+  },
+  {
+    "date": "2026-11-08", "name": "Karthika Purnima", "type": "regional_ap",
+    "demand_multiplier": 1.3,
+    "notes": "Important in AP — temple visits + family dining"
+  },
+  {
+    "date": "2026-12-25", "name": "Christmas", "type": "national",
+    "demand_multiplier": 1.3,
+    "notes": "Holiday season — hotels busy"
+  },
+  {
+    "date": "2026-12-31", "name": "New Year Eve", "type": "national",
+    "demand_multiplier": 1.8,
+    "notes": "Hotel restaurants packed for New Year celebrations"
+  }
+]
