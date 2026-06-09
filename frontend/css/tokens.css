@@ -1,0 +1,93 @@
+/* ═══════════════════════════════════════════════════════════
+   DESIGN TOKENS — Hotel Aditya Grand Order Assistant
+   ═══════════════════════════════════════════════════════════ */
+
+:root {
+  /* Brand */
+  --color-primary:        #E8531A;
+  --color-primary-dark:   #C4400F;
+  --color-primary-light:  #FFF0EA;
+  --color-primary-glow:   rgba(232, 83, 26, 0.18);
+
+  /* Backgrounds */
+  --color-bg:             #0F1117;
+  --color-surface:        #1A1D27;
+  --color-surface-2:      #22263A;
+  --color-surface-3:      #2B304A;
+  --color-border:         #2E3450;
+  --color-border-light:   #3B4168;
+
+  /* Text */
+  --color-text:           #F0F2FF;
+  --color-text-muted:     #8B90B0;
+  --color-text-dim:       #4F5470;
+
+  /* Semantic */
+  --color-success:        #22C55E;
+  --color-success-bg:     rgba(34, 197, 94, 0.12);
+  --color-warning:        #F59E0B;
+  --color-warning-bg:     rgba(245, 158, 11, 0.12);
+  --color-danger:         #EF4444;
+  --color-danger-bg:      rgba(239, 68, 68, 0.12);
+  --color-info:           #3B82F6;
+  --color-info-bg:        rgba(59, 130, 246, 0.12);
+
+  /* Category colors */
+  --color-biryani:        #F97316;
+  --color-chicken:        #EF4444;
+  --color-beverage:       #06B6D4;
+  --color-ice_cream:      #EC4899;
+  --color-bread:          #D97706;
+  --color-seafood:        #6366F1;
+  --color-starter:        #84CC16;
+  --color-dairy:          #A78BFA;
+  --color-rice:           #F59E0B;
+  --color-family_pack:    #E8531A;
+  --color-soup:           #14B8A6;
+  --color-egg:            #FBBF24;
+  --color-other:          #8B90B0;
+
+  /* Spacing */
+  --space-xs:   4px;
+  --space-sm:   8px;
+  --space-md:   16px;
+  --space-lg:   24px;
+  --space-xl:   32px;
+  --space-2xl:  48px;
+
+  /* Radius */
+  --radius-sm:   8px;
+  --radius-md:   12px;
+  --radius-lg:   18px;
+  --radius-xl:   24px;
+  --radius-pill: 999px;
+
+  /* Shadows */
+  --shadow-card:  0 2px 16px rgba(0,0,0,0.35);
+  --shadow-float: 0 8px 32px rgba(0,0,0,0.5);
+  --shadow-glow:  0 0 24px rgba(232, 83, 26, 0.2);
+
+  /* Layout */
+  --header-h:   60px;
+  --nav-h:      72px;
+  --content-pad: 16px;
+}
+
+/* ── Base ─────────────────────────────────────────────────── */
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, .display {
+  font-family: 'Outfit', sans-serif;
+  letter-spacing: -0.02em;
+}
